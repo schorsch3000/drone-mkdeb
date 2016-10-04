@@ -1,0 +1,13 @@
+{
+    "name": "schorsch3000/deb-maker",
+    "description": "Builds .deb files with ease and can mange deb-repos",
+    "require": {
+        "mustache/mustache": "~2"
+    },
+    "authors": [
+        {
+            "name": "Dirk Heilig",
+            "email": "dicky.dicky@gmail.com"
+        }
+    ]
+}
